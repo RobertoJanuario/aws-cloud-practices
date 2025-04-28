@@ -1,4 +1,5 @@
 Descrição do Projeto
+
 O objetivo desse projeto foi criar um alarme no Cloudwatch que avisasse via email quando a utilização de cpu de uma instância EC2 chegasse a 50%.
 A instância criada foi uma t2 micro (free tier), utilizando AMI Linux 2023. Foi utilizado um teste de stress para fazer com que a utilização de cpu chegasse a 50%.
 
