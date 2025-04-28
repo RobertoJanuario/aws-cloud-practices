@@ -9,6 +9,7 @@ Funcionamento: Um alarme é configurado no CloudWatch para monitorar a utilizaç
  Prints do Projeto
 
  Evidências
+ 
 1 -	Instância EC2 criada e configurada	| [ec2 instance] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/instancia.png
 
 2	- Conexão SSH estabelecida com a EC2 | [ssh connection] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/login_ssh.png
