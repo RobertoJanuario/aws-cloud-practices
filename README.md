@@ -8,11 +8,15 @@ Funcionamento: Um alarme é configurado no CloudWatch para monitorar a utilizaç
 
  Prints do Projeto
 
-Etapa	Descrição	Imagem
-1	Instância EC2 criada e configurada	| [ec2 instance] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/instancia.png
-2	Conexão SSH estabelecida com a EC2 | [ssh connection] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/login_ssh.png
-3	CPU sendo estressada para disparar o alarme	[stress] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/rodando_stress.png
-4	Alarme configurado e monitorando a instância	[alarm] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/alarme_aws.png
-5	Alarme disparado devido ao alto uso de CPU	[email alarm} https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/alarme_email.png
+ Evidências
+1 -	Instância EC2 criada e configurada	| [ec2 instance] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/instancia.png
+
+2	- Conexão SSH estabelecida com a EC2 | [ssh connection] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/login_ssh.png
+
+3	- CPU sendo estressada para disparar o alarme	[stress] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/rodando_stress.png
+
+4	- Alarme configurado e monitorando a instância	[alarm] https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/alarme_aws.png
+
+5	- Alarme disparado devido ao alto uso de CPU	[email alarm} https://github.com/RobertoJanuario/aws-cloud-practices/blob/master/alarme_email.png
 
 Não se trata de um tutorial, mas sim de uma aplicação prática da ferramenta para monitoramento.
